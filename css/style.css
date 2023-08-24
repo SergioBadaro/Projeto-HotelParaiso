@@ -299,7 +299,7 @@ header li:last-child {
 footer {
   display: flex;
   flex-direction: column;
-  background-color: #b6b6b6c3;
+  background-color: #b6b6b6c4;
   padding: 50px;
   align-items: center;
 }
